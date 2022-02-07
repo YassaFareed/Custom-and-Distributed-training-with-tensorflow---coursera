@@ -1,0 +1,13 @@
+2nd notebook video: Just see the videos to have knowledge about using gpu on windows ->2 gpus
+ YOu must see the video 2 that has been done on 2 gpus ( you cant visualize whats happening on colab)
+
+
+When we have differenet machines and each machine is having 2 gpus or more:
+https://www.tensorflow.org/tutorials/distribute/multi_worker_with_keras
+
+
+Run the assignment on colab again on gpu
+
+
+References:
+https://www.coursera.org/learn/custom-distributed-training-with-tensorflow/supplement/NMmKG/references

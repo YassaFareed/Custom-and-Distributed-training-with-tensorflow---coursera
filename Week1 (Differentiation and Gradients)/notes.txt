@@ -1,0 +1,9 @@
+see notebook for basics of tensors and the other tensor related concepts  (C2_W1_Lab1-basic-tensors)\
+
+
+
+Gradient Tape:
+
+we write w and b as  trainable=true so that while optimizing it should keep in mind w and b
+
+* see videos of gradient tape for knowledge again with notebook

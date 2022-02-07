@@ -1,0 +1,3 @@
+Graph mode is faster than eager mode.
+
+adding @tf.function and autograph you can convert your eager code to graph code 
